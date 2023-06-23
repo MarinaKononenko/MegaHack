@@ -727,6 +727,7 @@ figure:hover + span {
   font-size: 14px;
   color: #cbc9c9;
   margin: 0px;
+  white-space: nowrap;
 }
 
 .location_text {
